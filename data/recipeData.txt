@@ -1,0 +1,195 @@
+1-Italian Sausage Breakfast Hash-00:40-4-Side Dish
+ingredient
+2-Potato-4-unit-main-main
+3-Olive Oil-2-tablespoons-side-main
+4-Onion-1-unit-side-main
+5-Garlic Cloves-2-unit-side-main
+6-Bell Pepper-1-unit-side-main
+7-Salt-0--spice-main 
+8-pepper-0--spice-main
+9-paprika-0-unit-side-main
+10-Hot Italian Sausage-4-unit-spice-side
+11-Egg-4-unit-side-side
+step
+12-Cut into small chunks-main
+13-Slice into 16 pieces-main
+14-Slice thinly.-main
+15-Cut into medium dice.-main
+16-Boil Potato for 5 minutes.-main
+17-Heat the Olive Oil into skillet, then add Onion, Bell Pepper and Garlic. Saute until the onion is just soft.-main
+18-Add Potato, Sprinkle with Salt, pepper and paprika. Then cook and Stir until the Potato are Lightly Browned.-main
+19-Stir in the reserved sausage to heat.-post
+20-Lastly, gently stir in the eggs.-post
+21-Brown and Cook Italian Sausage.-side
+22-Slice into pieces.-side
+23-Hard Boil.-side
+edge
+1-2-hasMainIngrediant-main
+1-3-hasSideIngrediant-main
+1-4-hasSideIngrediant-main
+1-5-hasSideIngrediant-main
+1-6-hasSideIngrediant-main
+1-7-hasSideIngrediant-main
+1-8-hasSideIngrediant-main
+1-9-hasSideIngrediant-main
+1-10-hasSideIngrediant-side
+1-11-hasSideIngrediant-side
+2-12-step-main
+12-16-step-main
+16-18-lastStep-main
+18-19-postStep-step
+19-20-postStep-step
+4-13-step-main
+5-14-step-main
+6-15-step-main
+3-17-step-main
+13-17-step-main
+14-17-step-main
+15-17-step-main
+17-18-step-main
+7-18-step-main
+8-18-step-main
+9-18-step-main
+10-21-step-side
+11-23-lastStep-side
+23-20-lastStep-side
+21-22-step-side
+22-19-lastStep-side
+recipe
+1-Deviled Egg Potato Salad-00:40-4-Side Dish
+ingredient
+24-Potato-4-unit-main-main
+25-Salt-1-teaspoon-spice-main
+26-Egg-5-unit-side-side
+27-mayonnaise-1-cup-side-side
+28-plain greek yogurt-1-cup-side-side
+29-yellow mustard-2-tablespoon-side-side
+30-cayenne pepper-1-unit-spice-side
+31-green onions-4-unit-side-side
+32-paprika-0--side-side
+step
+33-Peel and Cut into 1 inches cubes.-main
+34-Boil potato in water with 1 tbs salt until your desired tenderness.-main
+35-Boil eggs and cut them into half.-side
+36-Drop the yolks into the bowl. Add the mayonnaise, yogurt, mustard, salt, and pepper to the bowl with the egg yolks. Mash together with a fork until smooth. Stir in sliced green onions.-side
+37-Slice into pieces.-side
+38-Chop egg whites, and add them to the mayonnaise mixture along with the cooked potatoes. Stir to coat. Sprinkle with paprika if desired.-side
+edge
+1-24-hasMainIngrediant-main
+1-25-hasSideIngrediant-main
+1-26-hasSideIngrediant-side
+1-27-hasSideIngrediant-side
+1-28-hasSideIngrediant-side
+1-29-hasSideIngrediant-side
+1-30-hasSideIngrediant-side
+1-31-hasSideIngrediant-side
+1-32-hasSideIngrediant-side
+24-33-hasSideIngrediant-main
+25-33-step-main
+33-34-laststep-main
+34-38-step-side
+26-35-step-side
+35-36-postStep-side
+36-38-step-side
+27-36-step-side
+28-36-step-side
+29-36-step-side
+30-36-step-side
+31-37-step-side
+37-36-step-side
+32-38-step-side
+recipe
+1-Bombay potatoes-00:45-4-Side Dish
+ingredient
+39-salt-0--side-main
+40-potato-3-unit-main-main
+41-Root ginger-15-gram-side-side
+42-Garlic Cloves-3-unit-side-side
+43-ish tomatoes-2-unit-side-side
+44-vegetable oil-4-tbsp-side-side
+45-cumin seeds-1-tsp-spice-side
+46-mustard seeds-1-tsp-side-side
+47-large onion-1-unit-side-side
+48-turmeric-1-tsp-spice-side
+49-ground coriander-2-tsp-side-side
+50-ground cumin-1-tsp-spice-side
+51-garam masala-1-unit-side-side
+52-chilli powder-1-unit-spice-side
+53-chopped coriander leaves-0--side-side
+step
+54-Cut into 2 pieces.-main
+55-peel-side
+56-cut one in quarter, the other cut into slim wedges-side
+57-roughly chopp onion-side
+58-Bring a large pot of water to the boil and salt it well. Place in the potatoes and boil until just tender. When cool enough to handle, peel and chop into 2.5cm cubes.-main
+59-Blend together the ginger, garlic and quartered tomato until smooth.-side
+60-Heat the oil in a large non-stick frying pan. Add the cumin and mustard seeds and, once the cumin starts to darken, add the onion. Cook for a minute before adding the ginger and garlic mixture, the ground spices and salt. Saute gently for one to two minutes or until the garlic smells cooked. If you are not sure, taste; it should seem harmonious.-side
+61-Add the tomato wedges, stir well and cook for three to four minutes. Tip in the potatoes and cook for three to five minutes to absorb the flavours. Check the seasoning, stir in the chopped coriander and serve.-side
+edge
+1-39-hasSideIngrediant-main
+1-40-hasMainIngrediant-main
+1-41-hasSideIngrediant-side
+1-42-hasSideIngrediant-side
+1-43-hasSideIngrediant-side
+1-44-hasSideIngrediant-side
+1-45-hasSideIngrediant-side
+1-46-hasSideIngrediant-side
+1-47-hasSideIngrediant-side
+1-48-hasSideIngrediant-side
+1-49-hasSideIngrediant-side
+1-50-hasSideIngrediant-side
+1-51-hasSideIngrediant-side
+1-52-hasSideIngrediant-side
+39-58-step-main
+40-54-step-main
+44-58-lastStep-main
+41-55-step-side
+42-55-step-side
+43-56-step-side
+55-59-step-side
+56-59-step-side
+59-60-step-side
+44-60-step-side
+45-60-step-side
+46-60-step-side
+47-57-step-side
+57-60-step-side
+48-60-step-side
+49-60-step-side
+50-60-step-side
+51-60-step-side
+52-60-step-side
+53-60-step-side
+60-61-step-side
+recipe
+1-Loaded Spinach Sweet Potato Boats-00:48-0-Side Dish
+ingredient
+62-small sweet potatoes-6-unit-main-main
+63-fresh spinach-90-gram-side-side
+64-feta-100-gram-side-side
+65-Garlic Clove-1-unit-side-side
+66-olive oil-2-tbsp-side-main
+67-pepper-0--spice-side
+step
+68-chopp-side
+69-Preheat the oven to 400 F/ 200 C/ gas mark 6. Line a baking tray with parchment paper. Cut the sweet potatoes in half lengthways and place on the tray skin side down. Drizzle with a little oil using a baking brush to spread it evenly and bake for about 30 minutes or until tender.-main
+70-Remove the potatoes from the oven and using a small spoon or melon baller scoop out the middle (not too much, about a teaspoonful from each half).-main
+71-Combine with the spinach, garlic, feta and t tablespoons of the oil, sprinkle a little pepper and blitz until well combined and the mixture is sticky.-side
+72-Place a generous amount of the mixture into each potato half and bake for an additional 8 minutes. Serve hot or cold.-side
+edge
+1-62-hasMainIngrediant-main
+1-63-hasSideIngrediant-main
+1-64-hasSideIngrediant-side
+1-65-hasSideIngrediant-side
+63-68-step-side
+68-71-step-side
+64-71-step-side
+65-71-step-side
+66-71-step-side
+67-71-step-side
+62-69-step-main
+66-69-step-main
+69-70-lastStep-main
+70-72-step-side
+71-72-step-side
+recipe

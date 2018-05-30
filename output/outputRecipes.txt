@@ -86,7 +86,7 @@ Instructions:
 3. chop onion.
 4. chop tomatoes
 5. chop cilantro.
-6. In the pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
+6. In the same pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
 7. Add the onions and cook for 2 minutes till translucent.
 8. Add the ginger and garlic paste and cook for another 2 minutes or till the raw smell goes away.
 9. Add the chopped tomatoes and cook for 2 minutes till they are little soft.
@@ -261,7 +261,7 @@ Instructions:
 2. chop onion.
 3. chop tomatoes
 4. chop cilantro.
-5. In the pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
+5. In the same pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
 6. Add the onions and cook for 2 minutes till translucent.
 7. Add the ginger and garlic paste and cook for another 2 minutes or till the raw smell goes away.
 8. Add the chopped tomatoes and cook for 2 minutes till they are little soft.
@@ -453,7 +453,7 @@ Instructions:
 4. chop onion.
 5. chop tomatoes
 6. chop cilantro.
-7. In the pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
+7. In the same pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
 8. Add the onions and cook for 2 minutes till translucent.
 9. Add the ginger and garlic paste and cook for another 2 minutes or till the raw smell goes away.
 10. Add the chopped tomatoes and cook for 2 minutes till they are little soft.
@@ -655,7 +655,7 @@ Instructions:
 5. chop onion.
 6. chop tomatoes
 7. chop cilantro.
-8. In the pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
+8. In the same pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
 9. Add the onions and cook for 2 minutes till translucent.
 10. Add the ginger and garlic paste and cook for another 2 minutes or till the raw smell goes away.
 11. Add the chopped tomatoes and cook for 2 minutes till they are little soft.
@@ -1054,7 +1054,7 @@ Instructions:
 2. chop onion.
 3. chop tomatoes
 4. chop cilantro.
-5. In the pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
+5. In the same pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
 6. Add the onions and cook for 2 minutes till translucent.
 7. Add the ginger and garlic paste and cook for another 2 minutes or till the raw smell goes away.
 8. Add the chopped tomatoes and cook for 2 minutes till they are little soft.
@@ -1251,7 +1251,7 @@ Instructions:
 4. chop onion.
 5. chop tomatoes
 6. chop cilantro.
-7. In the pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
+7. In the same pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
 8. Add the onions and cook for 2 minutes till translucent.
 9. Add the ginger and garlic paste and cook for another 2 minutes or till the raw smell goes away.
 10. Add the chopped tomatoes and cook for 2 minutes till they are little soft.
@@ -1459,7 +1459,7 @@ Instructions:
 5. chop onion.
 6. chop tomatoes
 7. chop cilantro.
-8. In the pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
+8. In the same pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.
 9. Add the onions and cook for 2 minutes till translucent.
 10. Add the ginger and garlic paste and cook for another 2 minutes or till the raw smell goes away.
 11. Add the chopped tomatoes and cook for 2 minutes till they are little soft.

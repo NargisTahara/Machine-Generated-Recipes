@@ -1,0 +1,393 @@
+1-Deviled Egg Potato Salad-00:35-8-Side Dish-1
+ingredient
+2-baking potatoes-3-unit-main-main
+3-kosher salt-1-teaspoon-espice-main
+4-egg-5-unit-side-side1
+5-mayonnaise-0.75-cup-side-side1
+6-plain greek yogurt-0.5-cup-side-side1
+7-yellow mustard-2-tablespoon-side-side1
+8-cayenne pepper-0-""-espice-side1
+9-green onions-4-unit-side-side1
+10-paprika-0-""-side-side1
+step
+11-Peel potatoes and Cut into 1 inches cubes.-1-main
+12-Place potatoes in a pot, and cover with an inch of water. Add about a teaspoon of salt to the water. Bring to a boil, and cook at a low boil for 10 to 15 minutes or until your desired tenderness. Drain, and set cooked potatoes aside to cool.-2-main
+13-At the same time, place eggs in another pot, and cover with an inch of water. Bring to a boil uncovered, and boil for three minutes. Cover the pot, and turn off heat completely for 10 minutes. Pour off the hot water, and soak the eggs in cold water until cool enough to peel.-3-side1
+14-Peel your cooked eggs, and cut them in half. Drop the yolks into the bowl your finished potato salad will go into.-4-side1
+15-Slice the green onions.-5-side1
+16-Add the mayonnaise, yogurt, mustard, salt, and pepper to the bowl with the egg yolks. Mash together with a fork until smooth. Stir in sliced green onions.-6-side1
+17-Chop egg whites, and add them to the mayonnaise mixture along with the cooked potatoes. Stir to coat. Sprinkle with paprika if desired. Serve immediately, or store in the refrigerator until ready to enjoy.-7-side
+edge
+1-2-hasMainIngrediant-main
+1-3-hasSpice-main
+1-4-hasSideIngrediant-side1
+1-5-hasSideIngrediant-side1
+1-6-hasSideIngrediant-side1
+1-7-hasSideIngrediant-side1
+1-8-hasSideIngrediant-side1
+1-9-hasSideIngrediant-side1
+1-10-hasSideIngrediant-side1
+2-11-goesIn-main
+3-12-goesIn-main
+11-12-goesIn-main
+12-17-followedby-side
+4-13-goesIn-side1
+13-14-followedby-side1
+9-15-goesIn-side1
+14-16-followedby-side1
+5-16-goesIn-side1
+6-16-goesIn-side1
+7-16-goesIn-side1
+8-16-goesIn-side1
+10-17-goesIn-side1
+3-16-goesIn-side1
+15-16-followedby-side1
+16-17-followedby-side
+recipe
+1-Glazed Sweet Potatoes with Brown Sugar-00:30-4-Side Dish-1
+ingredient
+18-sweet potatoe-3-unit-main-main
+19-brown sugar-0.5-cup-side-side1
+20-water-0.33-cup-eside-side1
+21-butter-1-tablespoon-eside-side1
+22-salt-0.25-teaspoon-espice-side1
+step
+23-Peel the sweet potatoes and cut them into 0.5 inch to 1 inch thick slices. Place the sweet potato slices in a saucepan and cover with water. Bring to a boil and cook for about 12 minutes, or until just tender.-1-main
+24-In a heavy skillet, combine brown sugar, water, butter, and salt. Simmer over low heat for 5 minutes.-2-side1
+25-Add the sliced sweet potatoes to the brown sugar mixture. Simmer for 10 minutes, or until well glazed, turning frequently to keep them from scorching.-3-side
+edge
+1-18-hasMainIngrediant-main
+1-22-hasSpice-side1
+1-19-hasSideIngrediant-side1
+1-20-hasSideIngrediant-side1
+1-21-hasSideIngrediant-side1
+18-23-goesIn-main
+19-24-goesIn-side1
+20-24-goesIn-side1
+21-24-goesIn-side1
+22-24-goesIn-side1
+24-25-followedby-side
+23-25-followedby-side
+recipe
+1-Emily's Famous Hash Browns-00:35-4-Side Dish-2
+ingredient
+26-russet potatoes-2-medium-main-main
+27-onion-0.5-medium-side-main
+28-all purpose flour-0.25-cup-side-main
+29-egg-1-unit-side-main
+30-oil-1-cup-eside-side
+31-salt-0-""-espice-side1
+32-pepper-0-""-espice-side2
+step
+33-Shred potato.-1-main
+34-chop onions-2-main
+35-Rinse shredded potatoes until water is clear, then drain and squeeze dry. Place shreds in a bowl, and mix in the onion, flour and egg until evenly distributed.-3-main
+36-Heat about 1/4 inch of oil in a large heavy skillet over medium to high heat. When oil is sizzling hot, place potatoes into the pan in a 1/2 inch thick layer. Cover the whole bottom of the pan, or make separate piles like pancakes. Cook until nicely browned on the bottom, then flip over and brown on the other side. It should take at least 5 minutes per side. If you are cooking them in one big piece, it can be cut into quarters for easier flipping.-4-side
+37-Remove from pan, and drain on paper towels. Season with salt and pepper and serve immediately.-5-side
+edge
+1-26-hasMainIngrediant-main
+1-27-hasSideIngrediant-main
+1-28-hasSideIngrediant-main
+1-29-hasSideIngrediant-main
+1-30-hasSideIngrediant-side
+1-31-hasSpice-side1
+1-32-hasSpice-side2
+26-33-goesIn-main
+33-35-followedby-main
+27-34-goesIn-main
+34-35-followedby-main
+28-35-goesIn-main
+29-35-goesIn-main
+35-36-followedby-side
+30-36-goesIn-side
+36-37-followedby-side
+31-37-goesIn-side1
+32-37-goesIn-side2
+recipe
+1-Cauliflower Mashed Potatoes-00:30-8-Side Dish-2
+ingredient
+38-cauliflower-1-head-main-main
+39-Russet Potatoes-3-large-main-main
+40-salt-0-""-espice-main
+41-sour cream-0.25-cup-side-side1
+42-milk-2-tablespoon-side-side1
+43-freshly grated Parmesan cheese-0.5-cup-side-side1
+44-butter-2-tablespoons-eside-side1
+45-salt-0-""-espice-side2
+46-pepper-0-""-espice-side3
+step
+47-Remove the core from the cauliflower and cut it into large florets.-1-main
+48-Peel and dice the potatoes. They are more dense than cauliflower, cutting them into a dice smaller in size than the cauliflower will ensure both cook evenly and be done at the same time.-2-main
+49-Combine cauliflower & potatoes in a large pot & cover with cold water, add a heaping tablespoon of salt.-3-main
+50-Bring water to a boil, reduce to simmer until the potatoes & cauliflower are fork tender, 12 to 15 minutes. Drain really well in a colander and return the potatoes and cauliflower to the hot pot that you cooked them in set on the stove (burner off). Setting them back on the stove, onto the hot burner will steam the remaining water off the vegetables.-4-main
+51-In a small pan, warm the sour cream and butter. Add it to the potatoes along with the shredded cheese. With a potato masher, potato ricer or a hand mixer, mash/mix until they are well combined. If the potatoes need some extra moisture, add the milk.-5-side
+52-Taste & adjust seasonings. Because the cheese is salty, you may not need any additional salt, but I always add a pinch of pepper.-6-side
+edge
+1-38-hasMainIngrediant-main
+1-39-hasMainIngrediant-main
+1-40-hasSpice-main
+1-41-hasSideIngrediant-side1
+1-42-hasSideIngrediant-side1
+1-43-hasSideIngrediant-side1
+1-44-hasSideIngrediant-side1
+1-45-hasSpice-side2
+1-46-hasSpice-side3
+38-47-goesIn-main
+47-49-followedby-main
+49-50-followedby-main
+39-48-goesIn-main
+48-49-followedby-main
+40-49-goesIn-main
+41-51-goesIn-side1
+42-51-goesIn-side1
+43-51-goesIn-side1
+44-51-goesIn-side1
+50-51-followedby-side
+51-52-followedby-side
+45-52-goesIn-side1
+46-52-goesIn-side2
+recipe
+1-Potatoes & Cauliflower-00:40-2-Main Dish-1
+ingredient
+53-potatoes-2-medium-main-main
+54-cauliflower-1-medium-main-main
+55-onion-1-medium-side-side
+56-tomatoe-2-medium-side-side
+57-oil-2-teaspoon-eside-main
+58-cumin seeds-0.5-teaspoon-side-side
+59-ginger and garlic paste-1.5-teaspoons-side-side
+60-turmeric powder-0.5-teaspoon-side-side
+61-dry mango powder-0.5-teaspoon-side-side
+62-red chili powder-0.25-teaspoon-side-side
+63-garam masala powder-0.25-teaspoon-side-side
+64-coriander powder-1-teaspoon-side-side
+65-oil-2-teaspoon-eside-side
+66-chopped cilantro-2-tablespoon-side-side
+67-salt-0-""-espice-side
+step
+68-slice potatoes.-1-main
+69-cut cauliflower into small florets.-2-main
+70-chop onion.-3-side
+71-chop tomatoes-4-side
+72-chop cilantro.-5-side
+73-Heat 2 teaspoon of oil in a pan on medium heat. Add cauliflower florets and fry for 2 to 3 minutes and then add the sliced potatoes.-6-main
+74-Fry on medium to low flame for 7 to 8 minutes till potatoes and cauliflower have some brown spots on them.-7-main
+75-Drain on a tissue paper and set aside.-8-main
+76-In the pan heat 1.5 teaspoon of oil on medium heat and add cumin seeds and let them crackle.-9-side
+77-Add the onions and cook for 2 minutes till translucent.-10-side
+78-Add the ginger and garlic paste and cook for another 2 minutes or till the raw smell goes away.-11-side
+79-Add the chopped tomatoes and cook for 2 minutes till they are little soft.-12-side
+80-Add turmeric powder, red chilli powder, coriander powder and amchur (mango powder).-13-side
+81-Cover the pan and let the masala cook for 2 to 3 minutes and then add the potatoes and cauliflower to it and mix.-14-side
+82-Add chopped coriander leaves and give a good mix.-15-side
+83-Add garam masala and cook the potato and cauliflower on medium to low heat for 5 to 6 minutes.-16-side
+84-Add salt and cover the pan and cook more additional 6 to 7 minutes on low flame or till the potato and cauliflower are tender but not soggy.-17-side
+85-Garnish with some more coriander leaves and serve hot with any Indian bread.-18-side
+edge
+1-53-hasMainIngrediant-main
+1-54-hasMainIngrediant-main
+1-55-hasSideIngrediant-side
+1-56-hasSideIngrediant-side
+1-57-hasSideIngrediant-main
+1-58-hasSideIngrediant-side
+1-59-hasSideIngrediant-side
+1-60-hasSpice-side
+1-61-hasSideIngrediant-side
+1-62-hasSideIngrediant-side
+1-63-hasSpice-side
+1-64-hasSideIngrediant-side
+1-65-hasSideIngrediant-side
+1-66-hasSideIngrediant-side
+1-67-hasSpice-side
+53-68-goesIn-main
+68-73-followedby-main
+73-74-followedby-main
+74-75-followedby-main
+55-70-goesIn-side
+56-71-goesIn-side
+66-72-goesIn-side
+58-76-goesIn-side
+65-76-goesIn-side
+70-77-goesIn-side
+77-78-followedby-side
+59-78-goesIn-side
+78-79-followedby-side
+71-79-followedby-side
+79-80-followedby-side
+60-80-goesIn-side
+61-80-goesIn-side
+62-80-goesIn-side
+64-80-goesIn-side
+80-81-followedby-side
+75-81-followedby-side
+72-82-followedby-side
+81-82-followedby-side
+82-83-followedby-side
+63-83-followedby-side
+77-84-goesIn-side
+83-84-followedby-side
+84-85-followedby-side
+72-85-followedby-side
+recipe
+1-BAKED POTATOES WITH LEEK, MUSHROOM AND CARROT CREAM-00:90-4-Main Dish-1
+ingredient
+86-baking potatoes-6-large-main-main
+87-oil-4-tbsp-eside-main
+88-butter-3-tbsp-eside-side
+89-leek-1-unit-side-side
+90-carrots-3-unit-side-side
+91-mushrooms-0.33-lb-side-side
+92-flour-3-tbsp-side-side
+93-vegetable stock-1.7-cup-side-side
+94-heavy cream-0.75-cup-side-side
+95-Gouda cheese-2.5-oz-side-side
+step
+96-Preheat oven to 400°F. Place potatoes on a baking sheet and cut a cross in the top of each. Season then drizzle with oil and bake for 1 hour. Remove potatoes from oven and set aside to cool slightly.-1-main
+97-Slice the leek in half lengthwise and cut into strips.-2-side
+98-Peel and cube carrots.-3-side
+99-Slice mushrooms in half-4-side
+100-Grate cheese-5-side
+101-Melt 1 tbsp of butter in a saucepan, add leeks, carrots and mushrooms and sauté until soft. Remove from heat. Melt remaining 2 tbsp butter, add flour and cook briefly. Add stock and cream, bring to a boil and simmer for about 5 mins. Season to taste then add vegetables.-6-side
+102-Open up potatoes and fill with sauce. Sprinkle with cheese and bake for 12 to 15 mins.-7-side
+edge
+1-86-hasMainIngrediant-main
+1-87-hasSideIngrediant-main
+1-88-hasSideIngrediant-side
+1-89-hasSideIngrediant-side
+1-90-hasSideIngrediant-side
+1-91-hasSideIngrediant-side
+1-92-hasSideIngrediant-side
+1-93-hasSideIngrediant-side
+1-94-hasSideIngrediant-side
+1-95-hasSideIngrediant-side
+86-96-goesIn-main
+87-96-goesIn-main
+89-97-goesIn-side
+90-98-goesIn-side
+91-99-goesIn-side
+95-100-goesIn-side
+88-101-goesIn-side
+97-101-followedby-side
+98-101-followedby-side
+99-101-followedby-side
+92-101-goesIn-side
+93-101-goesIn-side
+94-101-goesIn-side
+96-102-followedby-side
+100-102-followedby-side
+101-102-followedby-side
+recipe
+1-SOUR CREAM LEMON POTATOES AND CARROTS-00:65-6-Main Dish-1
+ingredient
+103-Little Potato-1.5-lbs-main-main
+104-baby carrots-1-lb-main-main
+105-butter-2-tbsp-eside-main
+106-vegetable broth-0.5-cup-side-main
+107-salt-0-""-espice-main
+108-pepper-0-""-espice-main
+109-butter-1-tbsp-eside-side
+110-all purpose flour-1-tbsp-side-side
+111-garlic cloves-2-unit-side-side
+112-sour cream-1-cup-side-side
+113-vegetable broth-1-cup-side-side
+114-freshly squeezed lemon juice-0.25-cup-side-side
+115-dill-0.25-cup-side-side
+step
+116-Cut potatoes in half.-1-main
+117-Mince garlic cloves.-2-side
+118-Chop dill.-3-side
+119-Place a small saucepan over medium heat. Add butter. When melted and bubbling, stir in garlic. Cook for 30 seconds, or until aromatic. Add flour. Cook, whisking constantly, until browned, about 5 to 7 minutes. Pour in broth, followed by sour cream. Add lemon juice. Whisk until nice and smooth. Set aside.-4-side
+120-Add butter to a large frying pan or cast iron skillet over medium to high heat. Stir in potatoes and carrots. Season with salt and pepper. Cook, stirring every so often, for about 15 minutes, or until veggies have some browning to them.-5-main
+121-Stir in broth, cover, and reduce heat to a simmer. Continue cooking for another 10 to 15 minutes, or until veggies are fork tender (some broth will remain.)-6-main
+122-Add the sour cream sauce and fresh dill. Stir to combine and serve!-7-side
+edge
+1-103-hasMainIngrediant-main
+1-104-hasMainIngrediant-main
+1-105-hasSideIngrediant-main
+1-106-hasSideIngrediant-main
+1-107-hasSpice-main
+1-108-hasSpice-main
+1-109-hasSideIngrediant-side
+1-110-hasSideIngrediant-side
+1-111-hasSideIngrediant-side
+1-112-hasSideIngrediant-side
+1-113-hasSideIngrediant-side
+1-114-hasSideIngrediant-side
+1-115-hasSideIngrediant-side
+103-116-goesIn-main
+116-120-followedby-main
+104-120-goesIn-main
+105-120-goesIn-main
+107-120-goesIn-main
+108-120-goesIn-main
+106-121-goesIn-main
+120-121-followedby-main
+111-117-goesIn-side
+115-118-goesIn-side
+109-119-goesIn-side
+110-119-goesIn-side
+117-119-followedby-side
+112-119-goesIn-side
+113-119-goesIn-side
+114-119-goesIn-side
+121-122-followedby-side
+119-122-followedby-side
+118-122-followedby-side
+recipe
+1-TURNIPS POTATOES AND GREENS-00:30-4-Main Dish-1
+ingredient
+123-baby turnips-0.5-pound-main-main
+124-small red potatoes-0.5-pound-main-main
+125-greens of baby turnips-0-""-side-side
+126-butter-0.5-teaspoon-eside-main
+127-olive oil-2-teaspoon-eside-main
+128-kosher salt-1-teaspoon-espice-side
+129-thyme-1-teaspoon-side-side
+130-shallot-1-unit-side-side
+131-butter-0.5-teaspoon-eside-side
+132-olive oil-1-teaspoon-eside-side
+133-salt-0-to taste-espice-side
+134-pepper-0-to taste-espice-side
+step
+135-Chop thyme.-1-side
+136-Slice shallot thinly.-2-side
+137-Trim leaves and most of stems from the turnips and place in a bowl of water.-3-main
+138-Rinse turnips (check the stems where sand collects) and cut into quarters. Slice potatoes into quarters about the same size as the turnips.-4-main
+139-Fill a medium pot with water and kosher salt and bring to a boil. Add potatoes and turnips, Reduce heat to a rapid simmer and cook vegetables until tender, about 15 minutes. Drain.-5-main
+140-In a medium skillet or cast iron pan, heat 1/2 teaspoon butter and 2 teaspoons olive oil over medium to medium high heat. Add sliced turnips and potatoes. Saute vegetables until crispy and browned. Transfer to a bowl.-6-main
+141-Add 1/2 teaspoon butter and 1 teaspoons olive oil to the pan. Add shallots and sauté for 2 to 3 minutes until slightly tender. Add the greens and cook until just wilted.-7-side
+142-Add the potatoes to the pan and toss to combine.-8-side
+143-Season with salt and pepper to taste. Serve.-9-side
+edge
+1-123-hasMainIngrediant-main
+1-124-hasMainIngrediant-main
+1-125-hasSideIngrediant-side
+1-126-hasSideIngrediant-main
+1-127-hasSideIngrediant-main
+1-128-hasSpice-main
+1-129-hasSideIngrediant-side
+1-130-hasSideIngrediant-side
+1-131-hasSideIngrediant-side
+1-132-hasSideIngrediant-side
+1-133-hasSpics-side
+1-134-hasSpice-side
+129-135-goesIn-side
+130-136-goesIn-side
+123-137-goesIn-main
+137-138-followedby-main
+124-138-goesIn-main
+138-139-followedby-main
+128-139-goesIn-main
+139-140-followedby-main
+126-140-goesIn-main
+127-140-goesIn-main
+135-141-followedby-side
+136-141-followedby-side
+131-141-goesIn-side
+132-141-goesIn-side
+140-142-followedby-side
+141-142-followedby-side
+142-143-followedby-side
+133-143-goesIn-side
+134-143-goesIn-side
+recipe

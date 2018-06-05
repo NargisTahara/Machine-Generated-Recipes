@@ -391,3 +391,195 @@ edge
 133-143-goesIn-side
 134-143-goesIn-side
 recipe
+1-MASHED RED POTATOES WITH GARLIC AND PARMESAN-00:30-6-Side Dish-1
+ingredient
+144-red potatoes-2.5-lbs-main-main
+145-garlic cloves-3-unit-side-main
+146-butter-2-tablespoons-side-side
+147-milk-0.5-cup-side-side
+148-salt-1-teaspoon-spice-side
+149-grated parmesan cheese-0.25-cup-side-side
+step
+150-Cut potatoes in quarters.-1-main
+151-Peel garlic cloves.-2-main
+152-Put potatoes and garlic in lg pan.-3-main
+153-Cover with water.-4-main
+154-Bring to a boil.-5-main
+155-Reduce heat and simmer for 25 minutes, until potatoes are tender.-6-main
+156-Drain well.-7-main
+157-Mash with the butter, milk, and salt.-8-side
+158-Stir in the parmesan cheese.-9-side
+edge
+1-144-hasMainIngrediant-main
+1-145-hasSideIngrediant-main
+1-146-hasSideIngrediant-side
+1-147-hasSideIngrediant-side
+1-148-hasSpice-side
+1-149-hasSideIngrediant-side
+144-150-goesIn-main
+145-151-goesIn-main
+150-152-followedby-main
+151-152-followedby-main
+152-153-followedby-main
+153-154-followedby-main
+154-155-followedby-main
+155-156-followedby-main
+156-157-followedby-side
+146-157-goesIn-side
+147-157-goesIn-side
+148-157-goesIn-side
+157-158-followedby-side
+149-158-goesIn-side
+recipe
+1-ROASTED POTATO SPINACH AND PARMESAN SALAD-00:55-6-Side Dish-1
+ingredient
+159-yukon gold potatoes-2-lbs-main-main
+160-olive oil-2.5-tablespoons-side-main
+161-dried rosemary-0.75-teaspoon-side-main
+162-salt-0-null-spice-main
+163-black pepper-0-null-spice-side
+164-light mayonnaise-0.5-cup-side-side
+165-lemon zest-1-teaspoon-side-side
+166-lemon juice-0-null-side-side
+167-water-1.5-tablespoons-side-side
+168-garlic clove-1-unit-side-side
+169-Baby Spinach-6-cups-side-side
+170-parmesan cheese-0.5-cup-side-side
+step
+171-Cut potatoes into 3/4 inch wedges.-1-main
+172-Crumble dried rosemary.-2-main
+173-Grate lemon zest.-3-main
+174-Crush garlic clove.-4-main
+175-Shave parmesan cheese.-5-main
+176-Preheat oven to 450 degrees F. On a large baking sheet, toss together potatoes, oil, rosemary, and 3/4 teaspoon salt.-6-main
+177-Roast until potatoes are tender and golden, tossing once or twice, about 40 minutes; cool.-7-main
+178-In a large salad bowl, whisk together mayonnaise, lemon zest, lemon juice, water and garlic.-8-side
+179-Add potatoes, spinach, and Parmesan cheese; toss.-9-side
+180-Season with freshly ground black pepper.-10-side
+edge
+1-159-hasMainIngrediant-main
+1-160-hasSideIngrediant-main
+1-161-hasSideIngrediant-main
+1-162-hasSpice-main
+1-163-hasSpice-side
+1-164-hasSideIngrediant-side
+1-165-hasSideIngrediant-side
+1-166-hasSideIngrediant-side
+1-167-hasSideIngrediant-side
+1-168-hasSideIngrediant-side
+1-169-hasSideIngrediant-side
+1-170-hasSideIngrediant-side
+159-171-goesIn-main
+171-176-followedby-main
+160-176-goesIn-main
+161-172-goesIn-main
+172-176-followedby-main
+162-176-goesIn-main
+176-177-followedby-main
+177-179-followedby-side
+165-173-goesIn-side
+168-174-goesIn-side
+170-175-goesIn-side
+164-178-goesIn-side
+173-178-followedby-side
+166-178-goesIn-side
+167-178-goesIn-side
+174-178-followedby-side
+169-179-goesIn-side
+175-179-followedby-side
+163-180-goesIn-side
+179-180-followedby-side
+recipe
+1-TIBETAN POTATO CURRY-00:55-6-Side Dish-1
+ingredient
+181-potatoes-6-cups-main-main
+182-fenugreek seeds-0.5-teaspoon-side-side
+183-oil-2-tablespoons-eside-side
+184-onion-1-large-side-side
+185-minced ginger-3-tablespoons-side-side
+186-garlic cloves-4-units-side-side
+187-coriander-1-teaspoon-eside-side
+188-cumin-1.5-teaspoons-side-side
+189-curry powder-2-teaspoons-spice-side
+190-turmeric-1-teaspoon-spice-side
+191-tomatoes-2-units-eside-side
+192-dried whole hot pepper-1-unit-eside-side
+193-water-0-null-eside-side
+step
+194-Coarsely chop onion.-1-side
+195-Peel and mince garlic.-2-side
+196-Coarsely chop tomatoes.-3-side
+197-Precook the potatoes in water (or in the microwave) until almost, but not quite, done. Drain thoroughly.-4-main
+198-While the potatoes are cooking, saute the fenugreek seed in the oil on medium heat until light brown, being careful not to burn them.-5-side
+199-Add the onion and continue cooking for five minutes. Add the ginger and garlic and cook another five minutes. Add the spices and saute briefly to release their flavors. Add the tomato, the dried whole peppers, and a little water. Simmer until the flavors meld together, about 30 minutes.-6-side
+200-Gently add the potatoes, stir, and reduce heat. Cook until potatoes are tender, adding water if the sauce gets too dry. If the sauce is too runny, simply crush one of the potatoes to thicken it.-7-side
+edge
+1-181-hasMainIngrediant-main
+1-182-hasSideIngrediant-side
+1-183-hasSideIngrediant-side
+1-184-hasSideIngrediant-side
+1-185-hasSideIngrediant-side
+1-186-hasSideIngrediant-side
+1-187-hasSideIngrediant-side
+1-188-hasSideIngrediant-side
+1-189-hasSpice-side
+1-190-hasSpice-side
+1-191-hasSideIngrediant-side
+1-192-hasSideIngrediant-side
+1-193-hasSideIngrediant-side
+184-194-goesIn-side
+186-195-goesIn-side
+191-196-goesIn-side
+181-197-goesIn-main
+197-200-followedby-side
+182-198-goesIn-side
+183-198-goesIn-side
+198-199-followedby-side
+194-199-followedby-side
+185-199-goesIn-side
+195-199-followedby-side
+187-199-goesIn-side
+188-199-goesIn-side
+189-199-goesIn-side
+190-199-goesIn-side
+196-199-folloedby-side
+192-198-goesIn-side
+193-199-goesIn-side
+199-200-followedby-side
+193-200-goesIn-side
+recipe
+1-New Potato Salad with Sour Cream and Dill Recipe-00:25-6-Side Dish-1
+ingredient
+201-red skinned new potatoes-2-pounds-main-main
+202-sour cream-0.75-cup-side-side
+203-green onions-2-medium-side-side
+204-minced fresh dill-1-tablespoons-side-side
+205-apple cider vinegar-0.3-cup-side-side
+206-kosher salt-2-teaspoons-spice-side
+207-black pepper-0.5-teaspoon-spice-side
+step
+208-Mince green onions, including the green onion greens.-1-side
+209-Place potatoes, skin on, in a 2 to 3 quart saucepan. Cover with an inch of cold water. Bring to a simmer, lower the heat to maintain a low simmer. Cook for 10 to 12 minutes until they are easily pierced with a fork. Strain the potatoes in cold water, set them aside to cool.-2-main
+210-Cut the cooled potatoes in half lengthwise.-3-main
+211-In a medium bowl whisk together the sour cream, green onions, dill, cider vinegar, salt, and black pepper. The dressing should be strongly flavored (the potatoes will need it!).-4-side
+212-Toss potatoes with the dressing. Chill for at least 1 hour before serving, to allow the potatoes to absorb some of the dressing.-5-side
+edge
+1-201-hasMainIngrediant-main
+1-202-hasSideIngrediant-side
+1-203-hasSideIngrediant-side
+1-204-hasSideIngrediant-side
+1-205-hasSideIngrediant-side
+1-206-hasSpice-side
+1-207-hasSpice-side
+203-208-goesIn-side
+201-209-goesIn-main
+209-210-followedby-main
+202-211-goesIn-side
+208-211-followedby-side
+204-211-goesIn-side
+205-211-goesIn-side
+206-211-goesIn-side
+207-211-goesIn-side
+211-212-followedby-side
+210-212-folloedby-side
+recipe

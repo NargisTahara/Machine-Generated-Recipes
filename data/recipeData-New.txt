@@ -1,4 +1,4 @@
-1-Deviled Egg Potato Salad-00:35-8-Side Dish-1
+1-Deviled Egg Potato Salad-00:35-8-Side Dish-1-cooked
 ingredient
 2-baking potatoes-3-unit-main-main
 3-kosher salt-1-teaspoon-espice-main
@@ -44,7 +44,7 @@ edge
 15-16-followedby-side1
 16-17-followedby-side
 recipe
-1-Glazed Sweet Potatoes with Brown Sugar-00:30-4-Side Dish-1
+1-Glazed Sweet Potatoes with Brown Sugar-00:30-4-Side Dish-1-cooked
 ingredient
 18-sweet potatoe-3-unit-main-main
 19-brown sugar-0.5-cup-side-side1
@@ -69,7 +69,7 @@ edge
 24-25-followedby-side
 23-25-followedby-side
 recipe
-1-Emily's Famous Hash Browns-00:35-4-Side Dish-2
+1-Emily's Famous Hash Browns-00:35-4-Side Dish-2-notCooked
 ingredient
 26-russet potatoes-2-medium-main-main
 27-onion-0.5-medium-side-main
@@ -104,7 +104,7 @@ edge
 31-37-goesIn-side1
 32-37-goesIn-side2
 recipe
-1-Cauliflower Mashed Potatoes-00:30-8-Side Dish-2
+1-Cauliflower Mashed Potatoes-00:30-8-Side Dish-2-cooked
 ingredient
 38-cauliflower-1-head-main-main
 39-Russet Potatoes-3-large-main-main
@@ -147,7 +147,7 @@ edge
 45-52-goesIn-side1
 46-52-goesIn-side2
 recipe
-1-Potatoes & Cauliflower-00:40-2-Main Dish-1
+1-Potatoes & Cauliflower-00:40-2-Main Dish-1-cooked
 ingredient
 53-potatoes-2-medium-main-main
 54-cauliflower-1-medium-main-main
@@ -229,7 +229,7 @@ edge
 84-85-followedby-side
 72-85-followedby-side
 recipe
-1-BAKED POTATOES WITH LEEK, MUSHROOM AND CARROT CREAM-00:90-4-Main Dish-1
+1-BAKED POTATOES WITH LEEK, MUSHROOM AND CARROT CREAM-00:90-4-Main Dish-1-cooked
 ingredient
 86-baking potatoes-6-large-main-main
 87-oil-4-tbsp-eside-main
@@ -277,7 +277,7 @@ edge
 100-102-followedby-side
 101-102-followedby-side
 recipe
-1-SOUR CREAM LEMON POTATOES AND CARROTS-00:65-6-Main Dish-1
+1-SOUR CREAM LEMON POTATOES AND CARROTS-00:65-6-Main Dish-1-cooked
 ingredient
 103-Little Potato-1.5-lbs-main-main
 104-baby carrots-1-lb-main-main
@@ -334,7 +334,7 @@ edge
 119-122-followedby-side
 118-122-followedby-side
 recipe
-1-TURNIPS POTATOES AND GREENS-00:30-4-Main Dish-1
+1-TURNIPS POTATOES AND GREENS-00:30-4-Main Dish-1-cooked
 ingredient
 123-baby turnips-0.5-pound-main-main
 124-small red potatoes-0.5-pound-main-main
@@ -391,7 +391,7 @@ edge
 133-143-goesIn-side
 134-143-goesIn-side
 recipe
-1-MASHED RED POTATOES WITH GARLIC AND PARMESAN-00:30-6-Side Dish-1
+1-MASHED RED POTATOES WITH GARLIC AND PARMESAN-00:30-6-Side Dish-1-cooked
 ingredient
 144-red potatoes-2.5-lbs-main-main
 145-garlic cloves-3-unit-side-main
@@ -431,7 +431,7 @@ edge
 157-158-followedby-side
 149-158-goesIn-side
 recipe
-1-ROASTED POTATO SPINACH AND PARMESAN SALAD-00:55-6-Side Dish-1
+1-ROASTED POTATO SPINACH AND PARMESAN SALAD-00:55-6-Side Dish-1-cooked
 ingredient
 159-yukon gold potatoes-2-lbs-main-main
 160-olive oil-2.5-tablespoons-side-main
@@ -490,7 +490,7 @@ edge
 163-180-goesIn-side
 179-180-followedby-side
 recipe
-1-TIBETAN POTATO CURRY-00:55-6-Side Dish-1
+1-TIBETAN POTATO CURRY-00:55-6-Side Dish-1-halfCooked
 ingredient
 181-potatoes-6-cups-main-main
 182-fenugreek seeds-0.5-teaspoon-side-side
@@ -548,7 +548,7 @@ edge
 199-200-followedby-side
 193-200-goesIn-side
 recipe
-1-New Potato Salad with Sour Cream and Dill Recipe-00:25-6-Side Dish-1
+1-New Potato Salad with Sour Cream and Dill Recipe-00:25-6-Side Dish-1-cooked
 ingredient
 201-red skinned new potatoes-2-pounds-main-main
 202-sour cream-0.75-cup-side-side
@@ -581,5 +581,174 @@ edge
 206-211-goesIn-side
 207-211-goesIn-side
 211-212-followedby-side
-210-212-folloedby-side
+210-212-followedby-side
+recipe
+1-BAKED ITALIAN POTATOES-00:35-2-Side Dish-1-cooked
+ingredient
+213-olive oil-3-teaspoons-eside-side
+214-baby portabella mushrooms-0.2-cup-side-side
+215-scallions-2-tablespoons-side-side
+216-garlic cloves-3-unit-side-side
+217-dried oregano-0.5-teaspoon-side-side
+218-tomato sauce-0.5-cup-side-side
+219-potatoes-2-unit-main-main
+220-shredded mozzarella cheese-0.33-cup-side-side
+221-grated parmesan cheese-0-null-side-side
+222-fresh parsley-0.25-teaspoon-side-side
+step
+223-Slice mushrooms.-1-side
+224-Chop scallions.-2-side
+225-Chop parsley.-3-side
+226-Preheat oven to 450 degrees.Bake potatoes in oven or microwave.-4-main
+227-Split and fluff the baked potatoes.-5-main
+228-Heat oil in small sauce pan. Add mushrooms, scallions, garlic, and oregano. Cook over medium to high heat for about 3 minutes.-6-side
+229-Add tomato sauce to mushroom mixture. Cook, stirring frequently, for another 3 minutes.-7-side
+230-Spoon tomato sauce over each of the potatoes and top with mozzarella cheese. Add a little Parmesan cheese if you'd like.-8-side
+231-Place on baking sheet and bake at 450 degrees Fahrenheit for 5 to 8 minutes (until cheese is melted). Garnish with fresh parsley.-9-side
+edge
+1-213-hasSideIngrediant-side
+1-214-hasSideIngrediant-side
+1-215-hasSideIngrediant-side
+1-216-hasSideIngrediant-side
+1-217-hasSideIngrediant-side
+1-218-hasSideIngrediant-side
+1-219-hasMainIngrediant-main
+1-220-hasSideIngrediant-side
+1-221-hasSideIngrediant-side
+1-222-hasSideIngrediant-side
+214-223-goesIn-side
+215-224-goesIn-side
+222-225-goesIn-side
+213-228-goesIn-side
+223-228-followedby-side
+224-228-followedby-side
+216-228-goesIn-side
+217-228-goesIn-side
+228-229-followedby-side
+218-229-goesIn-side
+229-230-followedby-side
+230-231-followedby-side
+220-230-goesIn-side
+221-230-goesIn-side
+222-231-goesIn-side
+219-226-goesIn-main
+226-227-followedby-main
+227-230-followedby-side
+recipe
+1-Sauteed Potato-00:35-2-Side Dish-1-cooked
+ingredient
+232-potato-1-big-main-main
+233-salt-1-teaspoon-spice-main
+234-salt-0.25-teaspoon-spice-side
+235-cayenne pepper-1-teaspoon-spice-side
+236-cumin powder-1-teaspoon-spice-side
+237-five spice powder-0.5-teaspoon-spice-side
+238-chicken stock-0.5-teaspoon-side-side
+239-butter-1-tablespoon-side-side
+240-cilantro-1-tablespoon-eside-side
+step
+241-Chop cilantro.-1-side
+242-Add potato in a medium pot with a teaspoon of salt. Add water to cover potato and boil about 20 minutes, till you can poke through potato with a chopstick.-2-main
+243-Drain potato and let it chill a bit. Cut into 1.5 cm squares.-3-main
+244-Mix cayenne pepper, cumin powder, five spice powder, chicken stock and the rest of salt in a small bowl.-4-side
+245-Add butter in a non sticky skillet and heat with medium heat. When butter melted and stop bubbling, add potatoes and spice mixture, stir fry till potatoes are evenly seasoned and browned all sides.-5-side
+246-Garnish with cilantro and serve immediately.-6-side
+edge
+1-232-hasSideIngrediant-main
+1-233-hasSideIngrediant-main
+1-234-hasSideIngrediant-side
+1-235-hasSideIngrediant-side
+1-236-hasSideIngrediant-side
+1-237-hasSideIngrediant-side
+1-238-hasMainIngrediant-side
+1-239-hasSideIngrediant-side
+1-240-hasSideIngrediant-side
+240-241-goesIn-side
+232-242-goesIn-main
+233-242-goesIn-main
+242-243-followedby-main
+234-244-goesIn-side
+235-244-goesIn-side
+236-244-goesIn-side
+237-244-goesIn-side
+238-244-goesIn-side
+244-245-followedby-side
+239-245-goesIn-side
+245-246-followedby-side
+243-246-followedby-side
+241-246-followedby-side
+recipe
+1-HUNGARIAN POTATO PASTA-00:30-4-Side Dish-1-cooked
+ingredient
+247-potato-4-medium-main-main
+248-onion-1-unit-side-main
+249-cloves of garlic-2-unit-side-main
+250-paprika powder-2-tbsp-spice-main
+251-olive oil-2-tbsp-eside-main
+252-pasta-300-g-side-side
+253-salt-0-null-spice-main
+254-pepper-0-null-spice-main
+255-pickles-0-null-side-side
+step
+256-Chop onion and garlic very finely and sauté them on oil or in water until translucent.-1-main
+257-Cut potatoes into very small cubes and add to the sautéed onion with paprika powder.-2-main
+258-Stir for a few seconds, then pour in water to cover potatoes. Cook for about 15 to 20 minutes.-3-main
+259-Meanwhile prepare your pasta according to package instructions.-4-side
+260-Once potatoes are totally soft and the water is almost completely evaporated, mash potatoes roughly with a fork. Season with salt and a lots of pepper.-5-main
+261-Stir pasta into the potato mixture and serve warm with pickles. Enjoy!-6-side
+edge
+1-247-hasSideIngrediant-main
+1-248-hasSideIngrediant-main
+1-249-hasSideIngrediant-main
+1-250-hasSideIngrediant-main
+1-251-hasSideIngrediant-main
+1-252-hasSideIngrediant-side
+1-253-hasMainIngrediant-main
+1-254-hasSideIngrediant-main
+1-255-hasSideIngrediant-side
+248-256-goesIn-main
+249-256-goesIn-main
+251-256-goesIn-main
+247-257-goesIn-main
+250-257-goesIn-main
+256-257-followedby-main
+257-258-followedby-main
+258-260-followedby-main
+252-259-goesIn-side
+259-261-followedby-side
+255-261-goesIn-side
+260-261-followedby-side
+recipe
+1-SPANISH TAPAS POTATOES IN GARLIC MAYONNAISE-00:40-3-Side Dish-1-cooked
+ingredient
+262-potato-2-large-main-main
+263-mayonnaise-3-tablespoons-side-side
+264-garlic clove-1-large-side-side
+265-fresh parsley-2-tablespoons-side-side
+266-spanish smoked hot paprika-0.5-teaspoon-spice-side
+step
+267-Crush the garlic clove.-1-side
+268-Chop parsley.-2-side
+269-Peel the potatoes and boil in salted water for approx 20 mins check that the potatoes are done then drain and leave to cool.-3-main
+270-In a bowl mix the mayonnaise, chopped parsley, crushed garlic, and paprika.-4-side
+271-Once the potatoes have cooled, chop them into small chunks (2x2cm).-5-main
+272-Add the potatoes to the garlic mayonnaise and mix well.-6-side
+273-Leave in the fridge for 30 mins before serving at room temperature.-7-side
+edge
+1-262-hasMainIngrediant-main
+1-263-hasSideIngrediant-side
+1-264-hasSideIngrediant-side
+1-265-hasSideIngrediant-side
+1-266-hasSideIngrediant-side
+262-269-goesIn-main
+269-271-followedby-main
+264-267-goesIn-side
+265-268-goesIn-side
+263-270-goesIn-side
+267-270-followedby-side
+268-270-followedby-side
+266-270-goesIn-side
+270-272-followedby-side
+272-273-followedby-side
+271-272-followedby-side
 recipe

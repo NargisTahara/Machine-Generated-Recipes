@@ -41,30 +41,14 @@ object GraphToDescription {
        }
      
      // Newly generated recipe
-     val newlyGeneratedRecipe: RDD[(Long, recipe)] = newgraph.vertices.collect {
-       case (id, p @ recipe(name,_,_,_,_)) if name != "" => (id, p)
+     val newlyGeneratedRecipes: RDD[recipe] = newgraph.vertices.collect {
+       case (id, p @ recipe(name,_,_,_,_,_)) if name != "" => p
        }
+     val newlyGeneratedRecipe: Array[recipe] = newlyGeneratedRecipes.take(1)
      
-     if(side_ingredients_second_recipe.collect().length < 1 || side_ingredients_first_recipe.collect().length < 1){
-       for((x,i) <- newlyGeneratedRecipe.collect().view.zipWithIndex) scala.tools.nsc.io.File("data/recipesOutput.txt").appendAll(x._2.recipeName + ", Cook Time = "+ x._2.cookTime + ", Servings = "+ x._2.servings)
-       }
-     else{
-      var recipeNameIndex = 0
-      for((x,i) <- newlyGeneratedRecipe.collect().view.zipWithIndex){
-      
-        for((xs,j) <- side_ingredients_first_recipe.collect().view.zipWithIndex)  {
-        
-          val wordIndex = x._2.recipeName.toLowerCase indexOf xs._2.ingredientName.toLowerCase
-        
-          if(wordIndex != -1) {
-             scala.tools.nsc.io.File("data/recipesOutput.txt").appendAll(x._2.recipeName.toLowerCase.replaceAll(xs._2.ingredientName.toLowerCase, side_ingredients_second_recipe.collect()(recipeNameIndex)._2.ingredientName) + ", Cook Time = "+ x._2.cookTime + ", Servings = "+ x._2.servings)
-             recipeNameIndex = recipeNameIndex +1
-          }
-        }
-      }
-      
-      if(recipeNameIndex == 0) for((x,i) <- newlyGeneratedRecipe.collect().view.zipWithIndex) scala.tools.nsc.io.File("data/recipesOutput.txt").appendAll(x._2.recipeName + ", Cook Time = "+ x._2.cookTime + ", Servings = "+ x._2.servings)
-    }
+     val newName: String = generateNewName(newlyGeneratedRecipe(0).recipeName, side_ingredients_first_recipe, side_ingredients_second_recipe)
+    
+     scala.tools.nsc.io.File("data/recipesOutput.txt").appendAll(newName + ", Cook Time = "+ newlyGeneratedRecipe(0).cookTime + ", Servings = "+ newlyGeneratedRecipe(0).servings)
     
     // Ingredients of newly generated recipe
     
@@ -156,7 +140,7 @@ object GraphToDescription {
           }
           else
           {
-            testObject = recipe(arr(1),arr(2),arr(3).toInt,arr(4),arr(5).toInt)
+            testObject = recipe(arr(1),arr(2),arr(3).toInt,arr(4),arr(5).toInt,arr(6))
             vertexArray = vertexArray ++ Array((arr(0).toLong, testObject))
           }
         }
@@ -254,6 +238,96 @@ object GraphToDescription {
        val newgraph = Graph(extractedGraph.vertices.union(extractedGraph1.vertices), extractedGraph.edges.union(totalEdges))
        return newgraph
      }
+     
+     // Function to generate a new recipe name from parent recipes names and from parent recipes ingredients 
+     def generateNewName(currentName: String, side_ingredients_first_recipe: RDD[(Long, ingredient)], side_ingredients_second_recipe: RDD[(Long, ingredient)]) : String = {
+       
+       var newName: String = currentName      
+       var recipeNameIndex = 0
+       
+       for((xs,j) <- side_ingredients_first_recipe.collect().view.zipWithIndex){ 
+         
+        println("RecipeIndex: " + recipeNameIndex) 
+         
+        val wordIndex = currentName.toLowerCase indexOf xs._2.ingredientName.toLowerCase
+        val s_ingredientName = xs._2.ingredientName.substring(0, xs._2.ingredientName.length()-1)
+        val s_wordIndex = currentName.toLowerCase indexOf s_ingredientName
+        
+        println(s_ingredientName)
+        println(s_wordIndex)
+        
+        if( (wordIndex != -1 || s_wordIndex != -1)  && recipeNameIndex < side_ingredients_second_recipe.collect().length) {
+           println("In recipe name change process")
+           newName = newName.toLowerCase.replaceAll(xs._2.ingredientName.toLowerCase, side_ingredients_second_recipe.collect()(recipeNameIndex)._2.ingredientName)
+           newName = newName.toLowerCase.replaceAll(xs._2.ingredientName.toLowerCase, s_ingredientName)
+           recipeNameIndex = recipeNameIndex +1
+        }
+        else if( (wordIndex != -1 || s_wordIndex != -1) && recipeNameIndex >= side_ingredients_second_recipe.collect().length){
+          println("Removeal Process" + xs._2.ingredientName.toLowerCase)
+          
+          
+          newName = newName.toLowerCase.replaceAll(xs._2.ingredientName + " ,", "")
+          newName = newName.toLowerCase.replaceAll(xs._2.ingredientName + ",", "")
+          newName = newName.toLowerCase.replaceAll(xs._2.ingredientName, "")
+          
+          println("removal new name 1: " + newName)
+          
+          newName = newName.toLowerCase.replaceAll(s_ingredientName.toLowerCase + " ,", "")
+          newName = newName.toLowerCase.replaceAll(s_ingredientName.toLowerCase + ",", "")
+          newName = newName.toLowerCase.replaceAll(s_ingredientName.toLowerCase, "")
+          
+          println("removal new name 2: " + newName)
+            
+          val withIndex = newName.toLowerCase indexOf "with"
+          if( withIndex == (newName.size - 5)) newName = newName.substring(0, withIndex - 1)
+            
+          val andIndex = newName.toLowerCase indexOf "and"
+          if( andIndex == (newName.size - 4)) newName = newName.substring(0, andIndex - 1)
+        }
+       }
+      
+        if(recipeNameIndex == 0 && side_ingredients_second_recipe.collect().length > 0){
+           if(side_ingredients_second_recipe.collect().length > 1) newName = currentName + " with " + side_ingredients_second_recipe.collect()(0)._2.ingredientName + " and " + side_ingredients_second_recipe.collect()(1)._2.ingredientName
+           else newName = currentName + " with " + side_ingredients_second_recipe.collect()(0)._2.ingredientName     
+        }
+       
+       return newName
+     }
+     
+      def isCompatible(allGraphs: ArrayBuffer[Graph[AIRecipes,edgeProperty]], index1: Int, index2: Int) : Boolean = {
+        
+        val recipes_1: RDD[recipe] = allGraphs(index1).vertices.collect {
+         case (id, p @ recipe(name,_,_,_,_,_)) if name != "" => p
+        }
+        val recipe_01: Array[recipe] = recipes_1.take(1)
+        
+        
+        val recipes_2: RDD[recipe] = allGraphs(index2).vertices.collect {
+         case (id, p @ recipe(name,_,_,_,_,_)) if name != "" => p
+        }
+        val recipe_02: Array[recipe] = recipes_2.take(1)
+        
+        if(recipe_01(0).cookedType_mainIngredient == "notCooked" && recipe_02(0).cookedType_mainIngredient == "cooked")
+          return false
+        
+        return true
+      }
+      
+       def replaceMainIngredientNameinInstruction(step: String, mainIngredientRecipe2: String) : String = {
+        
+        val wordIndex = step.toLowerCase indexOf mainIngredientRecipe2.toLowerCase()
+        var newStep = ""
+        
+        if(wordIndex != 1)
+          newStep = step.toLowerCase.replaceAll(mainIngredientRecipe2.toLowerCase(), "potatoe")
+        else{
+          // To solve plular issues  
+          val mainIng: String = mainIngredientRecipe2.substring(0,mainIngredientRecipe2.length()-1)
+          newStep = step.toLowerCase.replaceAll(mainIng.toLowerCase(), "potatoe")
+        }
+         
+        return newStep
+      }
 }
   
 

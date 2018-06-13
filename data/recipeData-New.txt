@@ -448,9 +448,9 @@ ingredient
 step
 171-Cut potatoes into 3/4 inch wedges.-1-main
 172-Crumble dried rosemary.-2-main
-173-Grate lemon zest.-3-main
-174-Crush garlic clove.-4-main
-175-Shave parmesan cheese.-5-main
+173-Grate lemon zest.-3-side
+174-Crush garlic clove.-4-side
+175-Shave parmesan cheese.-5-side
 176-Preheat oven to 450 degrees F. On a large baking sheet, toss together potatoes, oil, rosemary, and 3/4 teaspoon salt.-6-main
 177-Roast until potatoes are tender and golden, tossing once or twice, about 40 minutes; cool.-7-main
 178-In a large salad bowl, whisk together mayonnaise, lemon zest, lemon juice, water and garlic.-8-side
